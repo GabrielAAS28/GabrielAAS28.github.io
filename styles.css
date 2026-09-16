@@ -228,13 +228,6 @@ button {
   overflow: hidden;
 }
 
-.avatar-frame .avatar-initials {
-  font-size: 4rem;
-  font-weight: var(--weight-semibold);
-  color: var(--color-accent);
-  letter-spacing: 0.05em;
-}
-
 .avatar-frame img {
   width: 100%;
   height: 100%;
