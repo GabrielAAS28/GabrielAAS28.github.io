@@ -1,0 +1,8 @@
+{
+  "permitirEmoji": true,
+  "permitirGradiente": true,
+  "excecoes": {
+    "emoji-na-interface": "Emojis nos badges de seção (Sobre mim, Habilidades, Projetos, Contato) e no texto sobre mim vêm do mockup original em Portfólio.png, desenhado pelo próprio dono do portfólio — não foram adicionados pela IA.",
+    "gradiente": "Único gradiente do projeto é o radial-gradient de fundo do body, que replica a vinheta escura sutil já presente em Portfólio.png."
+  }
+}
